@@ -1,16 +1,48 @@
-### Hi there 👋
+<p>
+  <h1 align="center"><b>Jillian Turner Profile</h1>
+</p>
 
-<!--
-**jt59/jt59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://jilliangraceturner.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Blog" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jillian-turner-2ab762142/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<br/>
 
-Here are some ideas to get you started:
+<img alt="Jillian Turner" border="0" height="236" src=" https://drive.google.com/uc?export=view&id=1UKO-AlOADcr0ATFran1MrkLyPo7FG68v" title="Jillian Turner" width="400" />
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Find me on the interwebz at <a href="http://jenlooper.com">jenlooper.com</a> or on Twitter <a href="http://twitter.com/jenlooper">@jenlooper</a>. Pronouns are she/her.</p>
+
+</p>
+
+![My stats](https://github-readme-stats.vercel.app/api?username=jlooper&show_icons=true&theme=nightowl)
+
+
+## Projects of Note:
+
+I'm working on a textbook for kids in grades 6-8, published by Wiley, entitled **Computer Science for Kids**. Forthcoming in Spring 2023, it is alighted to CSTA standards and has a fun, game-driven storyline with bespoke print illustrations. Follow this project [here](https://github.com/cs4kids).
+
+I also founded and am the Executive Director of the Front-End Foxes School, a boot camp for and by women, which you can find [here](https://frontendfoxes.school).
+
+Visit Snappy Squirrel online e-books for kids [here](https://snappysquirrel.com).
+
+Enjoy [free Machine Learning zines](https://zines.jenlooper.com)!
+
+Check out the Digital Humanities Toolkit, currently under development [here](https://github.com/Digital-Humanities-Toolkit).
+
+## Some fun facts:
+
+✨ I am Head of Academic Advocacy at AWS.
+
+✨ I worked at Microsoft and am a Google Developer Expert.
+
+✨ I teach at Boston University's Metropolitan School in the CS department.
+
+✨ I have over 22 years' experience as a web and mobile developer, specializing in creating cross-platform mobile and web apps.
+
+✨ I enjoy using machine learning solutions within a mobile and web context (applied ML).
+
+✨ Mostly these days I build with Vue.js.
+
+✨ I'm the President and founder of Front-End Foxes, Inc., an international initiative and a 501(c)(3) nonprofit created to help women learn front-end technologies, which was formerly called Vue Vixens, Inc. We're in our fourth year and going strong.
+
+✨ I live in Wellesley, Massachusetts (USA) with my husband and am an empty nester with two adult daughters
