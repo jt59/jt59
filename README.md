@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/jillian-turner-2ab762142/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br/>
 
-<img alt="Jillian Turner" border="0" height="236" src=" https://drive.google.com/uc?export=view&id=1UKO-AlOADcr0ATFran1MrkLyPo7FG68v" title="Jillian Turner" width="400" />
+<img alt="Jillian Turner" border="0" height="236" src="https://drive.google.com/uc?export=view&id=1UKO-AlOADcr0ATFran1MrkLyPo7FG68v" title="Jillian Turner" width="400" />
   <br/>
 
 <p align="center">Find me on the interwebz at <a href="http://jenlooper.com">jenlooper.com</a> or on Twitter <a href="http://twitter.com/jenlooper">@jenlooper</a>. Pronouns are she/her.</p>
