@@ -18,11 +18,13 @@
 
 ## Projects of Note:
 
+Triathlon Training Log: An interactive python program that allows a user to log their half ironman triathlon training workouts.
+
 Vacation Website: A website showcasing a vacation I took to Belize, Central America, built as a project for BU MET masters in software development course.
 
-Brown Cross Country App: An iOS app built for the Brown Cross Country team's "general strength" training workouts
+Brown Cross Country App: An iOS app built for the Brown Cross Country team's "general strength" training workouts.
 
-Sketch Pad App: A Java App similar to Microsoft Paint, built for a Brown CS Intro to Object Oriented Programming course
+Sketch Pad App: A Java App similar to Microsoft Paint, built for a Brown CS Intro to Object Oriented Programming course.
 
 
 ## Some fun facts:
