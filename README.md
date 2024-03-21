@@ -7,11 +7,10 @@
 <a href="https://www.linkedin.com/in/jillian-turner-2ab762142/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br/>
 
-<img alt="Jillian Turner" border="0" height="300" src="https://drive.google.com/uc?export=view&id=1DjSmTHHlXEvubPbS_i2pzH663HKuTeTe" title="Jillian Kupchella" width="400" />
+<img alt="Jillian Turner" border="0" height="300" src="https://drive.google.com/uc?export=view&id=1DjSmTHHlXEvubPbS_i2pzH663HKuTeTe" title="Jillian Kupchella" />
   <br/>
-
+<h3 align="center">Software Engineer at BlueFoot Inc.</h3>
 <p align="center">Find me online at <a href="http://jilliangraceturner.com">jilliangraceturner.com</a>.</p>
-<p>I'm currently looking for a position as a front-end developer or data scientist.</p>
 
 </p>
 
@@ -29,10 +28,12 @@ Sketch Pad App: A Java App similar to Microsoft Paint, built for a Brown CS Intr
 
 ## Some fun facts:
 
-✨ I currently work as an Associate for the biopharma consulting firm Hayden Consulting Group, where I regularly code in PostreSQL (Redshift)
+✨ I currently work as a Software Engineer for BlueFoot Inc, a patent intelligence SaaS company
 
-✨ I am pursuing a masters in Software Development from Boston University
+✨ I received a masters in Software Development from Boston University
 
-✨ I ran cross country and track for Brown University, now I run marathons and am training for a half ironman
+✨ Upon ungrad graduation, I worked as an Associate for the biopharma consulting firm Hayden Consulting Group
 
-✨ I live in Boston, Massachusetts (USA)
+✨ I ran cross country and track for Brown University, and I still
+
+✨ I live in Salt Lake City, Utah
