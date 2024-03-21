@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Jillian Turner</h1>
+  <h1 align="center"><b>Jillian Kupchella</h1>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/jillian-turner-2ab762142/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <br/>
 
-<img alt="Jillian Turner" border="0" height="300" src="https://drive.google.com/uc?export=view&id=1UKO-AlOADcr0ATFran1MrkLyPo7FG68v" title="Jillian Turner" width="400" />
+<img alt="Jillian Turner" border="0" height="300" src="https://drive.google.com/uc?export=view&id=1qthIt91I-n07DRmatYbERF9TtJxMec67" title="Jillian Kupchella" width="400" />
   <br/>
 
 <p align="center">Find me online at <a href="http://jilliangraceturner.com">jilliangraceturner.com</a>.</p>
